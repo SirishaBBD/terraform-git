@@ -1,1 +1,4 @@
-variable "token" {}
+variable "token" {
+
+}
+//all variables given here
